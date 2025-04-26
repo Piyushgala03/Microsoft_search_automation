@@ -1,4 +1,4 @@
-# Microsoft_search_automation
+# Microsoft Edge Search Automation
 Automates daily Microsoft Rewards searches to maximize points collection using Python, BeautifulSoup, and PyAutoGUI.
 Scrapes trending topics from the Times of India news website and performs randomized Bing searches to simulate human-like activity.
 
