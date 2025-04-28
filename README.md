@@ -27,3 +27,6 @@ Time and Random libraries (built-in)
 ## Real Life Impact Example
 Before using this script, I had to manually perform 30–35 searches every day, which took about 10–12 minutes.
 After automation, I achieve the same results with zero manual effort, maximizing my Microsoft Rewards points daily.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/ef03dce5-069d-483b-9c69-1dbd00238919)
